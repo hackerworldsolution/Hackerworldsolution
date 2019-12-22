@@ -1,0 +1,86 @@
+@import 'style-css.css';
+.nav-img{
+    border-radius: 5px;
+}
+.bar{
+    margin-left:53em
+}
+.img1{
+    border-radius: 10px
+}
+.img2{
+    border-radius: 10px
+}
+.img{
+    border-radius: 10px
+}
+.contd{
+    margin-top: 5em;
+}
+.section_2{
+    margin-top: 5em;
+    margin-bottom: 5em
+}
+.hack{
+    width: 100%
+}
+.wrd{
+    background-color:red;
+    padding: 1em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    color:white;
+}
+.com_service{
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+.add{
+    background-color: #F5F5F5;
+    margin-bottom:1em;
+    padding: 1em;
+    margin-left:0px;
+    border-radius:5px
+}
+.client{
+    background-color: #F5F5F5;
+}
+.pix{
+    margin-top: 5em;
+}
+.review{
+    margin-bottom:6em;
+    margin-top: 0em;
+    background-color: #F5F5F5;
+}
+.feedback{
+    margin-top: 4em
+}
+.logos{
+    margin-top: 3em
+}
+.foot{
+    background-color: black;
+}
+.md-footer{
+    margin-top:10em;
+}
+.img2{
+    border-radius: 50%;
+}
+.icon{
+    color: red;
+}
+.admin{
+    color: #25d366;
+}
+.boot{
+    color: #32CD32;
+}
+.pv{
+    color: #006400;
+}
+address{
+    font-style: unset;
+    color: #F5F5F5;
+}
