@@ -87,3 +87,14 @@ address{
 .fm{
     color: blueviolet
 }
+.im{
+  border-radius: 5px;
+}
+.ig{
+    margin-left:20px;
+    color: red;
+}
+.text{
+    margin-left: 30px;
+    color: white;
+}
